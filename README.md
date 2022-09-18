@@ -1,6 +1,7 @@
 # KAFKA-CC
 
 ![Kafka img](kafka.png?raw=true "Kafka")
+![Kafka img2](kafka2.png?raw=true "Kafka2")
 
 - Kafka is a distributed streaming platform. It is used for building real-time data pipelines and streaming apps. It is horizontally scalable, fault-tolerant, wicked fast, and runs in production in thousands of companies.
 
