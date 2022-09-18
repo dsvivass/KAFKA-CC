@@ -1,5 +1,7 @@
 # KAFKA-CC
 
+![Kafka img](kafka.png?raw=true "Kafka")
+
 - Kafka is a distributed streaming platform. It is used for building real-time data pipelines and streaming apps. It is horizontally scalable, fault-tolerant, wicked fast, and runs in production in thousands of companies.
 
 - Zookeeper is a centralized service for maintaining configuration information, naming, providing distributed synchronization, and providing group services. All of these kinds make it a perfect fit for Kafka.
