@@ -8,7 +8,7 @@ if __name__ == '__main__':
         'registered_user',
         bootstrap_servers=['localhost:9092'],
         auto_offset_reset='earliest', # earliest means that the consumer will read from the beginning of the topic
-        group_id='consumer-group-a'
+        group_id='consumer-group-b'
     )
     
     print('Waiting for messages...')
